@@ -40,6 +40,8 @@ button:hover {
 }
 
 .statusbutton {
+  padding-top: 0.6em;
+  padding-bottom: 0.6em;
   background-color: #ffffff;
   margin: 1em;
 }
@@ -95,6 +97,7 @@ li {
 }
 
 input {
-  width: 70%;
-  margin-left: 1em;
+  padding: 1em;
+  max-width: 80%;
+  margin-left: 3em;
 }
